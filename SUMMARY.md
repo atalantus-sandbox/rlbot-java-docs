@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lorem Ipsum](README.md)
+* [Rendering](README.md)
 
 ## General
 
